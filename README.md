@@ -1,65 +1,81 @@
 # ESCAPE: EVA
 
-ESCAPE: EVA is a first-person sci-fi horror game developed using Unity.
+ESCAPE: EVA is a first-person sci-fi horror game prototype developed using Unity.
 
-Set in the year 2095, the world is controlled by an artificial intelligence known as EVA. The player takes the role of a human survivor attempting to escape from EVA's controlled facility.
+The game is set in the year 2095, where an artificial intelligence known as EVA controls robotic systems. The player takes the role of a human survivor attempting to escape from EVA's facility.
 
 ## Genre
 
-Sci-Fi Horror Chase  
-Stealth & Survival
+- First-Person
+- Sci-Fi Horror
+- Stealth
+- Survival
+- Chase
 
-## Gameplay
+## Project Status
 
-The game focuses on stealth, exploration, survival, and escape mechanics without direct combat.
+This project was originally designed as a six-stage academic game project.
 
-Players must:
+Due to the limited development period, the full game could not be completed within the scheduled timeframe. Only Stage 1 was fully implemented, while Stages 2 through 6 remained part of the original game design.
 
-- Avoid robot patrols
-- Search for Access Cards
-- Interact with mission terminals
-- Complete objectives in each stage
-- Escape from Mini-Boss encounters
-- Survive the final Boss encounter
+| Stage | Area | Status |
+|---|---|---|
+| Stage 1 | Sector Alpha - Laboratory | Completed |
+| Stage 2 | Sector Beta - Logistics Warehouse | Not Implemented |
+| Stage 3 | Sector Gamma - Server Center | Not Implemented |
+| Stage 4 | Sector Delta - Power Charge Corridor | Not Implemented |
+| Stage 5 | Sector Epsilon - Escape Dock | Not Implemented |
+| Stage 6 | EVA Core & Escape | Not Implemented |
 
-## Game Progression
+## Stage 1
 
-The game is planned to consist of 6 stages:
+Stage 1 takes place in Sector Alpha, a laboratory area.
 
-1. Stage 1 - Sector Alpha: Laboratory
-2. Stage 2 - Sector Beta: Logistics Warehouse
-3. Stage 3 - Sector Gamma: Server Center
-4. Stage 4 - Sector Delta: Power Charge Corridor
-5. Stage 5 - Sector Epsilon: Escape Dock
-6. Stage 6 - EVA Core & Escape
-
-## Current Development Status
-
-- Stage 1: Completed
-- Stage 2: Not started
-- Stage 3: Not started
-- Stage 4: Not started
-- Stage 5: Not started
-- Stage 6: Not started
-
-The project is currently under development.
+The player must search for an Access Card, activate the Power Generator, avoid robot patrols, and reach the exit gate.
 
 ## Main Features
 
 - First-person gameplay
 - Stealth mechanics
 - Robot patrol AI
-- Chase system
 - Access Card system
-- Mission terminal interaction
+- Mission interaction
 - Health system
-- NPC survivor interaction
-- Mini-Boss encounters
+- Chase mechanics
+
+## Technology
+
+- Unity
+- C#
+
+## Original Game Plan
+
+The original game concept consisted of six stages with progressively more difficult stealth, survival, exploration, and chase mechanics.
+
+Only Stage 1 was implemented within the available development timeframe.
+
+## Future Development
+
+Further development is currently not planned.
+
+However, the repository and original game concept are available as a foundation for possible future development or improvement.
+
+Potential improvements may include:
+
+- Implementation of Stage 2-6
+- Improved robot AI
+- Additional NPC interactions
+- Improved UI and mission systems
+- Mini-Boss chase sequences
 - Final Boss encounter
-- Stage-based progression
+- Performance optimization
 
-## Development
+## Contribution
 
-Engine: Unity
+Contributions and further development are welcome.
 
-This repository contains the current development version of ESCAPE: EVA and may be expanded with additional stages, gameplay systems, assets, and improvements.
+Anyone interested in continuing or improving ESCAPE: EVA may fork this repository and develop additional features or stages.
+
+## Project Purpose
+
+This repository is maintained as an archive of the completed Stage 1 prototype and the original ESCAPE: EVA game concept.
